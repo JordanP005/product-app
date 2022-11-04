@@ -12,8 +12,8 @@ body {
 }
 
 .product-block {
-  height: 70vh;
-  width: 40vw;
+  height: 36rem;
+  width: 40%;
   background-color: white;
   border-radius: 1rem;
   display: flex;
@@ -110,6 +110,10 @@ button:hover {
 
   button p {
     font-size: 0.8rem !important;
+  }
+
+  .product-block {
+    height: 27rem;
   }
 }
 
